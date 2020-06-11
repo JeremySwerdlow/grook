@@ -46,6 +46,10 @@ optional arguments:
   --save-generated, -s  save the generated lex and yacc files
 ```
 
+## [`examples`](examples/README.md)
+
+The `examples` directory includes example files related to the Grook language and translating to it.
+
 ## Contributing & Issues
 
 This is an ongoing project; it does not have a full set of Turing operations, as the input delimeter
